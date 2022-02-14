@@ -5,8 +5,11 @@
 
 分压电阻定义为;
 R3 11k, R4 1k for max. 60V (14S);
+
 R3 10k, R4 2k for max. 30V (6S);
+
 R3 2k, R4 1k for max. 15V (3S);
+
 R3 2k, R4 2k for max 10V (2S or Rx);
 
 使用有任何问题，请联系我;
